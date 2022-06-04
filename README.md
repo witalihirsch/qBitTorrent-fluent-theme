@@ -15,13 +15,13 @@ If you want the theme to work correctly use these settings:
 <p align="center"><b>Mica for Everyone settings</b></p>
 
 <p align="center">
-  <img alt="Screenshot 1" src="screenshots/mica1">
+  <img alt="Screenshot 1" src="screenshots/mica1.png">
 </p>
 <p align="center">
-  <img alt="Screenshot 2" src="screenshots/mica2">
+  <img alt="Screenshot 2" src="screenshots/mica2.png">
 </p>
 <p align="center">
-  <img alt="Screenshot 3" src="screenshots/mica3">
+  <img alt="Screenshot 3" src="screenshots/mica3.png">
 </p>
 
 ## Screenshots
