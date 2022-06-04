@@ -14,9 +14,15 @@ If you want the theme to work correctly use these settings:
 
 <p align="center"><b>Mica for Everyone settings</b></p>
 
-![Screenshot 1](screenshots/mica1.png)
-![Screenshot 2](screenshots/mica2.png)
-![Screenshot 3](screenshots/mica3.png)
+<p align="center">
+  <img alt="Screenshot 1" src="screenshots/mica1">
+</p>
+<p align="center">
+  <img alt="Screenshot 2" src="screenshots/mica2">
+</p>
+<p align="center">
+  <img alt="Screenshot 3" src="screenshots/mica3">
+</p>
 
 ## Screenshots
 <p align="center"><b>Dark Theme</b></p>
