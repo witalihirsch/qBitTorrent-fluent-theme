@@ -1,0 +1,15 @@
+{
+    "colors": {
+        "Palette.Link": "#0067c0",
+        "Palette.LinkVisited": "#0067c0",
+        
+        "Log.Normal": "#202020",
+        "Log.Info": "#0067c0",
+        "Log.Warning": "#c3be41",
+        "Log.Critical": "#c94949",
+        "Log.BannedPeer": "#c94949",
+		
+		"RSS.ReadArticle": "202020",
+		"RSS.UnreadArticle": "#0067c0"
+    }
+}
