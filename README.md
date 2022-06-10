@@ -3,7 +3,7 @@ Fluent dark/light themes for qBitTorrent!
 
 ## Requirements
 - Windows 11 22H1 and above
-- Mica For Everyone
+- Mica For Everyone (optional)
 - qBitTorrent on Qt5
 
 ## Download
