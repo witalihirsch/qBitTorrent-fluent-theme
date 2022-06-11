@@ -5,7 +5,7 @@ QDockWidget {
 }
 
 QWidget {
-    font-family: "Segoe UI Variable Display";
+    font-family: "Segoe UI Variable Text";
     font-size: 13px;
     border-radius: 5px;
     border-color: rgb(255, 255, 255, 8);
@@ -268,7 +268,7 @@ QTreeView::branch:has-children:open:hover {
 
 /*HEADERVIEW*/
 QHeaderView {
-    font-family: "Segoe UI Variable Display";
+    font-family: "Segoe UI Variable Text";
     font-size: 12px;
     background-color: transparent; 
     text-align: center;
