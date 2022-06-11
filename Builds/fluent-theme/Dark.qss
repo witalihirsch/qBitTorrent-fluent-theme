@@ -268,7 +268,7 @@ QTreeView::branch:has-children:open:hover {
 
 /*HEADERVIEW*/
 QHeaderView {
-    font-family: "Segoe UI Variable Text";
+    font-family: "Segoe UI Variable Small";
     font-size: 12px;
     background-color: transparent; 
     text-align: center;
