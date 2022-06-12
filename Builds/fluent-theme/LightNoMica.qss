@@ -1,15 +1,39 @@
 /*MAIN*/
 QMainWindow,
 QDockWidget {
-    background-color: transparent; 
+    background-color: #f3f3f3; 
 }
 
 QWidget {
     border-color: rgb(0, 0, 0, 8);
-    background-color: transparent;
+    background-color: #f3f3f3;
     font-family: "Segoe UI Variable Text", serif;
     font-size: 13px;
     border-radius: 5px;
+}
+
+QWidget QGroupBox 
+QCheckBox,
+QLabel,
+QCheckBox,
+QAbstractCheckBox,
+QTreeView::indicator,
+QRadioButton,
+QSlider:horizontal,
+QSlider:vertical {
+    background-color: transparent;
+}
+
+QWidget QGroupBox QGroupBox
+QCheckBox,
+QLabel,
+QCheckBox,
+QAbstractCheckBox,
+QTreeView::indicator,
+QRadioButton,
+QSlider:horizontal,
+QSlider:vertical {
+    background-color: transparent;
 }
 
 QObject,
@@ -30,7 +54,7 @@ QDialog,
 QWizard *,
 QCalendarWidget *,
 #qswPages > QObject {
-    background-color: transparent;
+    background-color: #f3f3f3;
     color: #202020; 
 }
 

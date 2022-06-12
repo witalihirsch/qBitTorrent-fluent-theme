@@ -5,10 +5,11 @@ QDockWidget {
 }
 
 QWidget {
+    border-color: rgb(255, 255, 255, 8);
+    background-color: transparent; 
     font-family: "Segoe UI Variable Text", serif;
     font-size: 13px;
     border-radius: 5px;
-    border-color: rgb(255, 255, 255, 8);
 }
 
 QObject,
@@ -448,14 +449,14 @@ QAbstractScrollArea {
 QProgressBar {
     text-align: center; 
     background-color: rgb(255, 255, 255, 25);
-    border-radius: 5px;
-    margin-top: 6px;
-    margin-bottom: 6px;
+    border-radius: 3px;
+    margin-top: 9px;
+    margin-bottom: 9px;
 }
 
 QProgressBar::chunk {
     background-color: #4cac77;
-    border-radius: 6px;
+    border-radius: 3px;
 }
 
 /*SPINBOXES*/
@@ -770,7 +771,8 @@ QComboBox QAbstractItemView {
 }
 
 /*TEXTEDIT*/
-QTextEdit {
+QTextEdit,
+QPlainTextEdit {
     background-color: rgb(255, 255, 255, 16);
     border: 1px solid rgb(255, 255, 255, 5);
     border-radius: 7px;
@@ -778,13 +780,15 @@ QTextEdit {
     padding: 5px;
 }
 
-QTextEdit:hover {
+QTextEdit:hover,
+QPlainTextEdit:hover {
     background-color: rgb(255, 255, 255, 20);
     border: 1px solid rgb(255, 255, 255, 10);
     border-bottom: 1px solid #707070;
 }
 
-QTextEdit:focus {
+QTextEdit:focus,
+QPlainTextEdit:focus {
     border-bottom: 2px solid #60cdff;
     background-color: rgb(255, 255, 255, 5);
     border-top: 1px solid rgb(255, 255, 255, 7);
@@ -792,7 +796,8 @@ QTextEdit:focus {
     border-right: 1px solid rgb(255, 255, 255, 7);
 }
 
-QTextEdit:disabled {
+QTextEdit:disabled,
+QPlainTextEdit:disabled {
     color: rgb(150, 150, 150);
     background-color: rgb(255, 255, 255, 13);
     border: 1px solid rgb(255, 255, 255, 5);
