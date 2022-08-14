@@ -31,6 +31,6 @@ If you want the theme to work correctly use these settings:
 
 ## FAQ
 
-Can I use qBitTorrent Qt6 version? - No, for Qt6 it'll be later
-Does this work for Windows 10 or do I need Windows 11? - For Windows 10 use no-mica theme and without Mica for everyone
-When will the theme bugs be fixed? - Soon, I'm currently working on a big project for Gnome
+- Can I use qBitTorrent Qt6 version? - No, for Qt6 it'll be later
+- Does this work for Windows 10 or do I need Windows 11? - For Windows 10 use no-mica theme and without Mica for everyone
+- When will the theme bugs be fixed? - Soon, I'm currently working on a big project for Gnome
