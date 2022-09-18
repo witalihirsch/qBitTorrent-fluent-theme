@@ -731,16 +731,16 @@ QDateTimeEdit::down-button:disabled {
 
 /*COMBOBOX*/
 QComboBox {
-    background-color: rgba(0, 0, 0, 18);
+    background-color: rgba(255, 255, 255, 18);
     border-radius: 5px;
-    padding-left: 10px;
-    padding-top: 5px;
+    padding-left: 7px;
+    padding-top: 6px;
     padding-bottom: 6px;
 }
 
 QGroupBox
 QComboBox {
-    padding-top: 5px;
+    padding-top: 6px;
     padding-bottom: 6px;
 }
 
@@ -1007,12 +1007,15 @@ QSlider::handle:horizontal:disabled {
 /*CHECKBOX,MENU,GROUPBOX, TREEVIEW*/
 QCheckBox,
 QLabel,
-QCheckBox,
 QAbstractCheckBox,
 QTreeView::indicator,
 QRadioButton {
-    min-height: 20px;
+    padding: 0px;
     font-style: normal;
+}
+
+QCheckBox {
+    padding: 2px;
 }
 
 QGroupBox::indicator,
