@@ -9,7 +9,7 @@ Please leave your opinion about the new Progress Bar at this [link.](https://git
 
 ## Requirements
 - Windows 11 22H1 and above
-- Mica For Everyone (optional)
+- Mica For Everyone (optional, recommended version is `1.2.0.0`)
 - qBitTorrent
 
 ## Download
@@ -22,6 +22,7 @@ If you want the theme to work correctly use these settings:
 
 <p align="center"><b>Mica for Everyone settings</b></p>
 
+
 <p align="center">
   <img alt="Screenshot 1" src="screenshots/mica1.png">
 </p>
@@ -31,6 +32,8 @@ If you want the theme to work correctly use these settings:
 <p align="center">
   <img alt="Screenshot 3" src="screenshots/mica3.png">
 </p>
+
+##### Note: In case you find that MicaForEveryone app is making other unwanted changes to your PC's look and feel, simply go to all other rules listed and select Default in drop-down menu for all options given and toggle other options to Off
 
 ## Screenshots
 <p align="center"><b>Dark|Light Themes</b></p>
