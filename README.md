@@ -16,6 +16,8 @@ Please leave your opinion about the new Progress Bar at this [link.](https://git
 Download theme [here](https://github.com/witalihirsch/qBitTorrent-fluent-theme/releases/) and download Mica for Everyone [here.](https://github.com/MicaForEveryone/MicaForEveryone/releases/) 
 
 ## Using
+To install the theme, go to `Options` > `Behavior` > `Interface` and enable `Use custom UI Theme` and select the path to the theme file
+
 If you want the theme to work correctly use these settings:
 
 <p align="center"><b>Mica for Everyone settings</b></p>
