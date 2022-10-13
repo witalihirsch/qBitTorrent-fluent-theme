@@ -46,7 +46,7 @@ QObject::section {
     selection-color: #202020;
     color: #202020;
     border-radius: 2px;
-    selection-background-color: rgba(0, 0, 0, 100);
+    selection-background-color: rgba(0, 0, 0, 20);
     alternate-background-color: transparent;
 }
 
@@ -286,7 +286,15 @@ QTreeView::branch:has-children:open {
     image: url(:/uitheme/controls/light/TreeViewOpen.png); 
 }
 
-QTreeView::branch:has-children:open:hover {
+QCheckBox:branch {
+    padding: 2px;
+}
+
+QCheckBox::branch:has-children:closed {
+    image: url(:/uitheme/controls/light/TreeViewClose.png); 
+}
+
+QCheckBox::branch:has-children:open {
     image: url(:/uitheme/controls/light/TreeViewOpen.png); 
 }
 
@@ -466,7 +474,7 @@ QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
 }
 
 QAbstractScrollArea {
-  background-color: transparent; 
+  background-color: #f3f3f3; 
 }
 
 /*PROGRESSBAR*/
