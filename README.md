@@ -33,7 +33,8 @@ If you want the theme to work correctly use these settings:
   <img alt="Screenshot 3" src="screenshots/mica3.png">
 </p>
 
-##### Note: In case you find that MicaForEveryone app is making other unwanted changes to your PC's look and feel, simply go to all other rules listed and select Default in drop-down menu for all options given and toggle other options to Off
+##### Note: In case you find that MicaForEveryone app is making other unwanted changes to your PC's look and feel, simply go to all other rules listed and select Default in drop-down menu for all options given and toggle other options to Off.
+##### In case mica themes act like normal themes, make sure to toggle on `Run on Startup` setting in `General` tab
 
 ## Screenshots
 <p align="center"><b>Dark|Light Themes</b></p>
