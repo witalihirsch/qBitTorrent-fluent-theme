@@ -34,7 +34,7 @@ If you want the theme to work correctly use these settings:
 </p>
 
 ##### Note: In case you find that MicaForEveryone app is making other unwanted changes to your PC's look and feel, simply go to all other rules listed and select Default in drop-down menu for all options given and toggle other options to Off.
-##### In case mica themes act like normal themes, make sure to toggle on `Run on Startup` setting in `General` tab
+##### In case mica themes act like normal themes after computer restarts, make sure to toggle on `Run on Startup` setting in `General` tab
 
 ## Screenshots
 <p align="center"><b>Dark|Light Themes</b></p>
