@@ -128,7 +128,8 @@ QMenuBar::item:pressed {
 
 QMenu {
     background-color: #f3f3f3;
-    padding-left: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
     padding-top: 1px;
     border: 1px solid rgba(0, 0, 0, 8);
     border-radius: 0px;
@@ -139,12 +140,18 @@ QMenu::icon {
     left: 4px; 
 }
 
+QMenu::separator {
+    height: 0px;
+    margin: 0px;
+}
+
 QMenu::item {
     background-color: transparent;
     padding: 5px 15px;
     border-radius: 5px;
     min-width: 60px;
-    margin: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 
 QMenu::item:selected {
@@ -256,7 +263,7 @@ QTreeView::icon {
 QTreeView::item {
     color: #202020;
     min-width: 60px;
-    padding: 5px 4px;
+    padding: 3px 4px;
     background-color: transparent;
     outline: 0;
 }
@@ -481,10 +488,10 @@ QAbstractScrollArea {
 QProgressBar {
     text-align: right;
     background-color: qlineargradient(spread:reflect, x1:0.5, y1:0.5, x2:0.5, y2:1, stop:0.119403 rgba(0, 0, 0, 250), stop:0.273632 rgba(255, 255, 255, 0));
-    border-radius: 1px;
+    border-radius: 2px;
     margin-right: 40px;
-    margin-top: 14px;
-    margin-bottom: 14px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 QProgressBar::chunk {
@@ -824,6 +831,9 @@ QPlainTextEdit {
     border-radius: 7px;
     border-bottom: 1px solid rgba(0, 0, 0, 100);
     padding: 5px;
+    selection-color: #202020;
+    selection-background-color: #e4e4e4;
+    alternate-background-color: #e4e4e4;
 }
 
 QTextEdit:hover,
