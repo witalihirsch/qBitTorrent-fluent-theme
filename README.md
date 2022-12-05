@@ -22,6 +22,7 @@ If you want the theme to work correctly use these settings:
 
 <p align="center"><b>Mica for Everyone settings</b></p>
 
+
 <p align="center">
   <img alt="Screenshot 1" src="screenshots/mica1.png">
 </p>
