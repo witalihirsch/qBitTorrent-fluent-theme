@@ -163,7 +163,7 @@ QMenu::item:pressed {
 }
 
 QMenu::right-arrow {
-    image: url(:/uitheme/controls/dark/TreeViewClose.png);
+    image: url(:/uitheme/controls/dark/TreeViewClose.svg);
     min-width: 40px;
     min-height: 18px;
 }
@@ -286,11 +286,11 @@ QTreeView::item:selected:active {
 }
 
 QTreeView::branch:has-children:closed {
-    image: url(:/uitheme/controls/dark/TreeViewClose.png); 
+    image: url(:/uitheme/controls/dark/TreeViewClose.svg); 
 }
 
 QTreeView::branch:has-children:open {
-    image: url(:/uitheme/controls/dark/TreeViewOpen.png); 
+    image: url(:/uitheme/controls/dark/TreeViewOpen.svg); 
 }
 
 QCheckBox:branch {
@@ -298,11 +298,11 @@ QCheckBox:branch {
 }
 
 QCheckBox::branch:has-children:closed {
-    image: url(:/uitheme/controls/dark/TreeViewClose.png); 
+    image: url(:/uitheme/controls/dark/TreeViewClose.svg); 
 }
 
 QCheckBox::branch:has-children:open {
-    image: url(:/uitheme/controls/dark/TreeViewOpen.png); 
+    image: url(:/uitheme/controls/dark/TreeViewOpen.svg); 
 }
 
 /*HEADERVIEW*/
@@ -343,11 +343,11 @@ QHeaderView::down-arrow {
 }
 
 QHeaderView::up-arrow {
-    image: url(:/uitheme/controls/dark/SpinBoxDown.png); 
+    image: url(:/uitheme/controls/dark/SpinBoxDown.svg); 
 }
 
 QHeaderView::down-arrow {
-    image: url(:/uitheme/controls/dark/SpinBoxUp.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUp.svg);
 }
 
 /*TABWIDGET*/
@@ -399,31 +399,31 @@ QScrollBar::handle:vertical {
 }
 
 QScrollBar::sub-line:vertical {
-    image: url(:/uitheme/controls/dark/ScrollTop.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
     subcontrol-position: top;
     subcontrol-origin: margin;
 }
 
 QScrollBar::sub-line:vertical:hover {
-    image: url(:/uitheme/controls/dark/ScrollTopHover.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::sub-line:vertical:pressed {
-    image: url(:/uitheme/controls/dark/ScrollTopPressed.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::add-line:vertical {
-    image: url(:/uitheme/controls/dark/ScrollBottom.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
     subcontrol-position: bottom;
     subcontrol-origin: margin;
 }
 
 QScrollBar::add-line:vertical:hover {
-    image: url(:/uitheme/controls/dark/ScrollBottomHover.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::add-line:vertical:pressed {
-    image: url(:/uitheme/controls/dark/ScrollBottomPressed.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
@@ -449,31 +449,31 @@ QScrollBar::handle:horizontal {
 }
 
 QScrollBar::sub-line:horizontal {
-    image: url(:/uitheme/controls/dark/ScrollLeft.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
     subcontrol-position: left;
     subcontrol-origin: margin;
 }
 
 QScrollBar::sub-line:horizontal:hover {
-    image: url(:/uitheme/controls/dark/ScrollLeftHover.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::sub-line:horizontal:pressed {
-    image: url(:/uitheme/controls/dark/ScrollLeftPressed.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::add-line:horizontal {
-    image: url(:/uitheme/controls/dark/ScrollRight.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
     subcontrol-position: right;
     subcontrol-origin: margin;
 }
 
 QScrollBar::add-line:horizontal:hover {
-    image: url(:/uitheme/controls/dark/ScrollRightHover.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::add-line:horizontal:pressed {
-    image: url(:/uitheme/controls/dark/ScrollRightPressed.png);
+    image: url(:/uitheme/controls/dark/ScrollBar.png);
 }
 
 QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
@@ -539,7 +539,7 @@ QSpinBox::focus {
 }
 
 QSpinBox::up-button {
-    image: url(:/uitheme/controls/dark/SpinBoxUp.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUp.svg);
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
@@ -560,7 +560,7 @@ QSpinBox::up-button:pressed {
 }
 
 QSpinBox::down-button {
-    image: url(:/uitheme/controls/dark/SpinBoxDown.png);
+    image: url(:/uitheme/controls/dark/SpinBoxDown.svg);
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
@@ -592,11 +592,11 @@ QSpinBox:disabled {
 }
 
 QSpinBox::up-button:disabled {
-    image: url(:/uitheme/controls/dark/SpinBoxUpDisabled.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUpDisabled.svg);
 }
 
 QSpinBox::down-button:disabled {
-    image: url(:/uitheme/controls/dark/SpinBoxDownDisabled.png);
+    image: url(:/uitheme/controls/dark/SpinBoxDownDisabled.svg);
 }
 
 QDoubleSpinBox {
@@ -624,7 +624,7 @@ QDoubleSpinBox::focus {
 }
 
 QDoubleSpinBox::up-button {
-    image: url(:/uitheme/controls/dark/SpinBoxUp.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUp.svg);
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
@@ -645,7 +645,7 @@ QDoubleSpinBox::up-button:pressed {
 }
 
 QDoubleSpinBox::down-button {
-    image: url(:/uitheme/controls/dark/SpinBoxDown.png);
+    image: url(:/uitheme/controls/dark/SpinBoxDown.svg);
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
@@ -677,11 +677,11 @@ QDoubleSpinBox:disabled {
 }
 
 QDoubleSpinBox::up-button:disabled {
-    image: url(:/uitheme/controls/dark/SpinBoxUpDisabled.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUpDisabled.svg);
 }
 
 QDoubleSpinBox::down-button:disabled {
-    image: url(:/uitheme/controls/dark/SpinBoxDownDisabled.png);
+    image: url(:/uitheme/controls/dark/SpinBoxDownDisabled.svg);
 }
 
 QDateTimeEdit {
@@ -709,7 +709,7 @@ QDateTimeEdit::focus {
 }
 
 QDateTimeEdit::up-button {
-    image: url(:/uitheme/controls/dark/SpinBoxUp.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUp.svg);
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
@@ -730,7 +730,7 @@ QDateTimeEdit::up-button:pressed {
 }
 
 QDateTimeEdit::down-button {
-    image: url(:/uitheme/controls/dark/SpinBoxDown.png);
+    image: url(:/uitheme/controls/dark/SpinBoxDown.svg);
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
@@ -762,11 +762,11 @@ QDateTimeEdit:disabled {
 }
 
 QDateTimeEdit::up-button:disabled {
-    image: url(:/uitheme/controls/dark/SpinBoxUpDisabled.png);
+    image: url(:/uitheme/controls/dark/SpinBoxUpDisabled.svg);
 }
 
 QDateTimeEdit::down-button:disabled {
-    image: url(:/uitheme/controls/dark/SpinBoxDownDisabled.png);
+    image: url(:/uitheme/controls/dark/SpinBoxDownDisabled.svg);
 }
 
 /*COMBOBOX*/
@@ -789,7 +789,7 @@ QComboBox:hover {
 }
 
 QComboBox::down-arrow {
-    image: url(:/uitheme/controls/dark/ComboBox.png);
+    image: url(:/uitheme/controls/dark/ComboBox.svg);
     width: 40px;
     height: 40px;
     margin-left: 15px;
@@ -812,7 +812,7 @@ QComboBox:disabled {
 }
 
 QComboBox::down-arrow:disabled {
-    image: url(:/uitheme/controls/dark/ComboBoxDisabled.png);
+    image: url(:/uitheme/controls/dark/ComboBoxDisabled.svg);
 }
 
 QComboBox QAbstractItemView {
@@ -923,21 +923,21 @@ QRadioButton::indicator:hover {
 QRadioButton::indicator:pressed {
     background-color: rgba(255, 255, 255, 20);
     border: 1px solid #434343;
-    image: url(:/uitheme/controls/dark/RadioButton.png);
+    image: url(:/uitheme/controls/dark/RadioButton.svg);
 }
 
 QRadioButton::indicator:checked {
     background-color: #60cdff;
     border: 1px solid #60cdff;
-    image: url(:/uitheme/controls/dark/RadioButton.png);
+    image: url(:/uitheme/controls/dark/RadioButton.svg);
 }
 
 QRadioButton::indicator:checked:hover {
-    image: url(:/uitheme/controls/dark/RadioButtonHover.png);
+    image: url(:/uitheme/controls/dark/RadioButtonHover.svg);
 }
 
 QRadioButton::indicator:checked:pressed {
-    image: url(:/uitheme/controls/dark/RadioButtonPressed.png);
+    image: url(:/uitheme/controls/dark/RadioButtonPressed.svg);
 }
 
 QRadioButton:disabled {
@@ -1094,7 +1094,7 @@ QCheckBox::indicator:checked,
 QTreeView::indicator:checked {
     background-color: #60cdff;
     border: 1px solid #60cdff;
-    image: url(:/uitheme/controls/dark/CheckBox.png);
+    image: url(:/uitheme/controls/dark/CheckBox.svg);
 }
 
 QGroupBox::indicator:checked:hover,
@@ -1111,7 +1111,7 @@ QCheckBox::indicator:checked:pressed,
 QTreeView::indicator:checked:pressed {
     background-color: #53aad2;
     border: 1px solid #53aad2;
-    image: url(:/uitheme/controls/dark/CheckBoxPressed.png);
+    image: url(:/uitheme/controls/dark/CheckBoxPressed.svg);
 }
 
 QCheckBox::indicator:indeterminate,
@@ -1120,7 +1120,7 @@ QTreeView::indicator:indeterminate,
 QTableView::indicator:indeterminate {
     background-color: #60cdff;
     border: 1px solid #60cdff;
-    image: url(:/uitheme/controls/dark/CheckBoxInterminate.png);
+    image: url(:/uitheme/controls/dark/CheckBoxInterminate.svg);
 }
 
 QCheckBox::indicator:indeterminate:hover,
@@ -1137,7 +1137,7 @@ QTreeView::indicator:indeterminate:pressed,
 QTableView::indicator:indeterminate:pressed {
     background-color: #53aad2;
     border: 1px solid #53aad2;
-    image: url(:/uitheme/controls/dark/CheckBoxInterminatePressed.png);
+    image: url(:/uitheme/controls/dark/CheckBoxInterminatePressed.svg);
 }
 
 QCheckBox::indicator:indeterminate:disabled,
@@ -1146,7 +1146,7 @@ QTreeView::indicator:indeterminate:disabled,
 QTableView::indicator:indeterminate:disabled {
     border: 1px solid #404040;
     background-color: #404040;
-    image: url(:/uitheme/controls/light/CheckBoxInterminatePressed.png);
+    image: url(:/uitheme/controls/light/CheckBoxInterminatePressed.svg);
 }
 
 QGroupBox::indicator:checked:disabled,
@@ -1155,7 +1155,7 @@ QCheckBox::indicator:checked:disabled,
 QTreeView::indicator:checked:disabled {
     border: 1px solid #404040;
     background-color: #404040;
-    image: url(:/uitheme/controls/light/CheckBoxPressed.png); 
+    image: url(:/uitheme/controls/light/CheckBoxPressed.svg); 
 }
 
 QGroupBox::indicator:disabled,
