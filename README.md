@@ -2,10 +2,11 @@
 Fluent dark/light themes for qBitTorrent!  
 
 ## Support
-[My Patreon](https://www.patreon.com/witalihirsch)
-
-## Discussion
-Please leave your opinion about the new Progress Bar at this [link.](https://github.com/witalihirsch/qBitTorrent-fluent-theme/discussions/15/)
+<div>
+    <a href="https://www.patreon.com/witalihirsch">
+        <img src="images/patreon.png" height="60px" >
+    </a>
+</div>
 
 ## Requirements
 - Windows 11 22H1 and above
