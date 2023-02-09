@@ -4,7 +4,7 @@ Fluent dark/light themes for qBitTorrent!
 ## Support
 <div>
     <a href="https://www.patreon.com/witalihirsch">
-        <img src="screenshots/patreon.png" height="60px" >
+        <img src="screenshots/patreon.png" width="250px" >
     </a>
 </div>
 
