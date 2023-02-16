@@ -7,7 +7,7 @@ QDockWidget {
 QWidget {
     border-color: rgba(255, 255, 255, 8);
     background-color: transparent; 
-    font-family: "Segoe UI Variable Text", serif;
+    font-family: "Segoe UI Variable Regular Text", serif;
     font-size: 13px;
     border-radius: 5px;
 }
@@ -283,7 +283,7 @@ QCheckBox::branch:has-children:open {
 
 /*HEADERVIEW*/
 QHeaderView {
-    font-family: "Segoe UI Variable Small", serif;
+    font-family: "Segoe UI Variable Regular Small", serif;
     font-size: 12px;
     background-color: transparent; 
     text-align: center;
