@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "qBitTorrent-fluent-theme-1",
+			"path": "../qBitTorrent-fluent-theme-1"
 		}
 	],
 	"settings": {}
