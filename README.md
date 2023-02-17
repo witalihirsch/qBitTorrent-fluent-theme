@@ -4,7 +4,7 @@ Fluent dark/light themes for qBitTorrent!
 ## Support
 <div>
     <a href="https://www.patreon.com/witalihirsch">
-        <img src="screenshots/patreon.png" width="250px" >
+        <img src="images/patreon.png" width="250px" >
     </a>
 </div>
 
@@ -25,20 +25,20 @@ If you want the theme to work correctly use these settings:
 
 
 <p align="center">
-  <img alt="Screenshot 1" src="screenshots/mica1.png">
+  <img alt="Image 1" src="images/mica1.png">
 </p>
 <p align="center">
-  <img alt="Screenshot 2" src="screenshots/mica2.png">
+  <img alt="Image 2" src="images/mica2.png">
 </p>
 <p align="center">
-  <img alt="Screenshot 3" src="screenshots/mica3.png">
+  <img alt="Image 3" src="images/mica3.png">
 </p>
 
 ##### Note: In case you find that MicaForEveryone app is making other unwanted changes to your PC's look and feel, simply go to all other rules listed and select Default in drop-down menu for all options given and toggle other options to Off.
 ##### In case mica themes act like normal themes after computer restarts, make sure to toggle on `Run on Startup` setting in `General` tab
 
-## Screenshots
+## qBitTorrent Fluent Theme
 <p align="center"><b>Dark|Light Themes</b></p>
 
-![Screenshot 4](screenshots/qbittorrent.png)
+![Image 4](images/qbittorrent.png)
 
