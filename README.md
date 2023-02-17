@@ -38,7 +38,11 @@ If you want the theme to work correctly use these settings:
 ##### In case mica themes act like normal themes after computer restarts, make sure to toggle on `Run on Startup` setting in `General` tab
 
 ## qBitTorrent Fluent Theme
-<p align="center"><b>Dark|Light Themes</b></p>
+<p align="center"><b>Dark|Light Themes with Fluent Icons</b></p>
 
 ![Image 4](images/qbittorrent.png)
+
+<p align="center"><b>Dark|Light Themes with Default icons</b></p>
+
+![Image 4](images/defaulticons-qbittorrent.png)
 
