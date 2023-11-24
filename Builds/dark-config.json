@@ -9,7 +9,7 @@
         "Log.Critical": "#ff5f5f",
         "Log.BannedPeer": "#ff5f5f",
 		
-		"RSS.ReadArticle": "ffffff",
+		"RSS.ReadArticle": "#ffffff",
 		"RSS.UnreadArticle": "#60cdff"
     }
 }
