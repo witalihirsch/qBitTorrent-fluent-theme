@@ -8,7 +8,7 @@ QWidget {
     border-color: rgba(0, 0, 0, 8);
     background-color: #f3f3f3;
     font-family: "Segoe UI Variable Regular Text", "Microsoft Yahei", "Microsoft JhengHei", sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     border-radius: 8px;
 }
 
