@@ -487,7 +487,7 @@ QAbstractScrollArea {
 /*PROGRESSBAR*/
 QProgressBar {
     text-align: right;
-    background-color: qlineargradient(spread:reflect, x1:0.5, y1:0.5, x2:0.5, y2:1, stop:0.119403 rgba(0, 0, 0, 250), stop:0.273632 rgba(255, 255, 255, 0));
+    background-color: rgba(0, 0, 0, 0);
     border-radius: 2px;
     margin-right: 40px;
     margin-top: 12px;
