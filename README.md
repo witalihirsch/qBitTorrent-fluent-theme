@@ -1,4 +1,4 @@
-#I'm no longer working on this project, but you can still submit pull requests if you’ve found a solution to any issues
+# I'm no longer working on this project, but you can still submit pull requests if you’ve found a solution to any issues
 
 # Fluent theme for qBitTorrent
 Fluent dark/light themes for qBitTorrent!  
