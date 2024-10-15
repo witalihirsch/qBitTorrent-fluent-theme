@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#202020;}
-</style>
-<path class="st0" d="M7.2,3C5.5,3,4,4.5,4,6.2v18.5C4,26.5,5.5,28,7.2,28h3.5c1.8,0,3.2-1.5,3.2-3.2V6.2C14,4.5,12.5,3,10.8,3H7.2z
-	 M21.2,3C19.5,3,18,4.5,18,6.2v18.5c0,1.8,1.5,3.2,3.2,3.2h3.5c1.8,0,3.2-1.5,3.2-3.2V6.2C28,4.5,26.5,3,24.8,3H21.2z"/>
-</svg>
+<svg width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4.75 3A1.75 1.75 0 0 0 3 4.75v14.5c0 .966.784 1.75 1.75 1.75h14.5A1.75 1.75 0 0 0 21 19.25V4.75A1.75 1.75 0 0 0 19.25 3H4.75Z" fill="#202020"/></svg>
